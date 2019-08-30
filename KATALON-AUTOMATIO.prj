@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>KATALON-AUTOMATIO</name>
+   <tag></tag>
+   <UUID>3f20b763-ab8c-493c-ba3f-5e100eb70150</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
